@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+    </header>
+
+    <section class="profile">
+        <h2>Profile</h2>
+        <p>
+            A short introduction about yourself, highlighting your skills and experiences.
+        </p>
+    </section>
+
+    <section class="experience">
+        <h2>Experience</h2>
+        <article class="job-experience">
+            <h3>Company Name</h3>
+            <h4>Position</h4>
+            <p>
+                Description of your role and responsibilities.
+            </p>
+        </article>
+        <!-- Add more job experiences as needed -->
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <article class="school">
+            <h3>University Name</h3>
+            <h4>Degree</h4>
+            <p>
+                Description of your studies and achievements.
+            </p>
+        </article>
+        <!-- Add more schools as needed -->
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Skill 1</li>
+            <li>Skill 2</li>
+            <!-- Add more skills as needed -->
+        </ul>
+    </section>
+
+    <section class="hobbies">
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Hobby 1</li>
+            <li>Hobby 2</li>
+            <!-- Add more hobbies as needed -->
+        </ul>
+    </section>
+</body>
+</html>
